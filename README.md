@@ -4,7 +4,7 @@
    
    ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/ikwbb/cangjie-practice)
 
-   Try it out live: [Link](https://ikwbb.github.io/cangjietraining/)
+   [Try it out online!](https://ikwbb.github.io/cangjietraining/)
    
    <img src="demo/demo.gif" alt="Demo of the Cangjie Practice Tool">
 
