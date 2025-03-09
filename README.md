@@ -1,10 +1,10 @@
 # Cangjie Practice Tool
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/ikwbb/cangjie-practice)
-
 <div align="center">
-[Demo of the Cangjie Practice Tool](demo/demo.gif)
+   
+   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/ikwbb/cangjie-practice)
+   
+   <img src="demo/demo.gif" alt="Demo of the Cangjie Practice Tool">
 </div><br>
 
 A web-based tool designed to help users practice and learn the Cangjie input method, a popular Chinese character input system. This project supports both traditional and simplified Chinese characters, with customizable difficulty levels based on character frequency.
