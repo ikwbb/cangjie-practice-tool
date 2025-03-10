@@ -2,7 +2,7 @@
 
 <div align="center">
    
-   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/ikwbb/cangjie-practice)
+   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/ikwbb/cangjie-practice-tool)
 
    [Try it out online!](https://ikwbb.github.io/cangjietraining/)
    
