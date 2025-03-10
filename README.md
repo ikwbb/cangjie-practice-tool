@@ -3,12 +3,11 @@
 <div align="center">
    
    ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/ikwbb/cangjie-practice-tool)
-
-   [Try it out online!](https://ikwbb.github.io/cangjietraining/)
    
    <img src="demo/demo.gif" alt="Demo of the Cangjie Practice Tool">
 
 
+   [Try it out online!](https://ikwbb.github.io/cangjietraining/)
 
 </div><br>
 
