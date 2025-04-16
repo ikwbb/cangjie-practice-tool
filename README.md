@@ -28,7 +28,7 @@ A web-based tool designed to help users practice and learn the Cangjie input met
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/cangjie-practice.git
+   git clone https://github.com/ikwbb/cangjie-practice-tool.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
